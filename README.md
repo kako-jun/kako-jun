@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000&color=4ADE80&width=435&lines=%E3%81%93%E3%82%93%E3%82%84%E3%80%81%EF%BC%91%EF%BC%92%E3%81%98%E3%80%81%E3%81%A0%E3%82%8C%E3%81%8B%E3%81%8C++++++++++%E3%81%99%E3%81%9F%E3%83%BC%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=10000&color=4ADE80&width=435&lines=こんや、１２じ、だれかが++++++++++すたーをつける)](https://git.io/typing-svg)
+
+> 🕛 This is a playful twist on a famous line from *Kamaitachi no Yoru* (1994), a widely acclaimed Japanese sound novel that was a commercial hit and helped define the genre in Japan.  
+> 
+> In the original, the ominous phrase was: **"こんや、12じ、だれかがしぬ"** — *"At midnight tonight, someone will die."*  
+> 
+> Here, the grim message has been gently rewritten as *"someone will give a star"*, turning dread into cheerful anticipation.  
+>  
+> Just imagine—you could be that someone. 🌟  
+> [Read more on Wikipedia (English)](https://en.wikipedia.org/wiki/Banshee%27s_Last_Cry)
+
